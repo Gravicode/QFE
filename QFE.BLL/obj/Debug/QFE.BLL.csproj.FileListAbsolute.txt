@@ -1,0 +1,45 @@
+D:\Quran\SRC\QFE\QFE.BLL\bin\Debug\QFE.BLL.dll.config
+D:\Quran\SRC\QFE\QFE.BLL\bin\Debug\QFE.BLL.dll
+D:\Quran\SRC\QFE\QFE.BLL\bin\Debug\QFE.BLL.pdb
+D:\Quran\SRC\QFE\QFE.BLL\bin\Debug\QFE.DAL.dll
+D:\Quran\SRC\QFE\QFE.BLL\bin\Debug\System.Data.SQLite.dll
+D:\Quran\SRC\QFE\QFE.BLL\bin\Debug\QFE.DAL.pdb
+D:\Quran\SRC\QFE\QFE.BLL\bin\Debug\System.Data.SQLite.xml
+D:\Quran\SRC\QFE\QFE.BLL\obj\Debug\QFE.BLL.csprojResolveAssemblyReference.cache
+D:\Quran\SRC\QFE\QFE.BLL\obj\Debug\QFE.BLL.dll
+D:\Quran\SRC\QFE\QFE.BLL\obj\Debug\QFE.BLL.pdb
+D:\Quran\SRC\QFE\QFE.BLL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.BLL\bin\Debug\QFE.BLL.dll.config
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.BLL\bin\Debug\QFE.BLL.dll
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.BLL\bin\Debug\QFE.BLL.pdb
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.BLL\bin\Debug\QFE.DAL.dll
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.BLL\bin\Debug\System.Data.SQLite.dll
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.BLL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.BLL\bin\Debug\QFE.DAL.pdb
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.BLL\bin\Debug\System.Data.SQLite.xml
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.BLL\obj\Debug\QFE.BLL.csprojResolveAssemblyReference.cache
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.BLL\obj\Debug\QFE.BLL.dll
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.BLL\obj\Debug\QFE.BLL.pdb
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.BLL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.BLL\bin\Debug\QFE.BLL.dll.config
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.BLL\bin\Debug\QFE.BLL.dll
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.BLL\bin\Debug\QFE.BLL.pdb
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.BLL\bin\Debug\QFE.DAL.dll
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.BLL\bin\Debug\System.Data.SQLite.dll
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.BLL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.BLL\bin\Debug\QFE.DAL.pdb
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.BLL\bin\Debug\System.Data.SQLite.xml
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.BLL\obj\Debug\QFE.BLL.csprojResolveAssemblyReference.cache
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.BLL\obj\Debug\QFE.BLL.dll
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.BLL\obj\Debug\QFE.BLL.pdb
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.BLL\bin\Debug\QFE.BLL.dll.config
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.BLL\bin\Debug\QFE.BLL.dll
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.BLL\bin\Debug\QFE.BLL.pdb
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.BLL\bin\Debug\QFE.DAL.dll
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.BLL\bin\Debug\System.Data.SQLite.dll
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.BLL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.BLL\bin\Debug\QFE.DAL.pdb
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.BLL\bin\Debug\System.Data.SQLite.xml
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.BLL\obj\Debug\QFE.BLL.csprojResolveAssemblyReference.cache
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.BLL\obj\Debug\QFE.BLL.dll
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.BLL\obj\Debug\QFE.BLL.pdb

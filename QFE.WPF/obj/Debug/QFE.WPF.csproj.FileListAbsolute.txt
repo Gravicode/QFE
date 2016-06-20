@@ -1,0 +1,153 @@
+D:\Quran\SRC\QFE\QFE.WPF\bin\Debug\QFE.WPF.exe.config
+D:\Quran\SRC\QFE\QFE.WPF\bin\Debug\QFE.WPF.exe
+D:\Quran\SRC\QFE\QFE.WPF\bin\Debug\QFE.WPF.pdb
+D:\Quran\SRC\QFE\QFE.WPF\bin\Debug\HtmlToXamlConvert.exe
+D:\Quran\SRC\QFE\QFE.WPF\bin\Debug\QFE.BLL.dll
+D:\Quran\SRC\QFE\QFE.WPF\bin\Debug\QFE.DAL.dll
+D:\Quran\SRC\QFE\QFE.WPF\bin\Debug\System.Data.SQLite.dll
+D:\Quran\SRC\QFE\QFE.WPF\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Quran\SRC\QFE\QFE.WPF\bin\Debug\HtmlToXamlConvert.pdb
+D:\Quran\SRC\QFE\QFE.WPF\bin\Debug\QFE.BLL.pdb
+D:\Quran\SRC\QFE\QFE.WPF\bin\Debug\QFE.DAL.pdb
+D:\Quran\SRC\QFE\QFE.WPF\bin\Debug\System.Data.SQLite.xml
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\QFE.WPF.csprojResolveAssemblyReference.cache
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\MainWindow.baml
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListAyah.baml
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListJuz.baml
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListLanguage.baml
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListReciter.baml
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListSetting.baml
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListSurah.baml
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\Window1.baml
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\MainWindow.g.cs
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListAyah.g.cs
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListJuz.g.cs
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListLanguage.g.cs
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListReciter.g.cs
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListSetting.g.cs
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListSurah.g.cs
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\Window1.g.cs
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\App.g.cs
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\QFE.WPF_MarkupCompile.cache
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\QFE.WPF.g.resources
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\QFE.WPF.Properties.Resources.resources
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\QFE.WPF.csproj.GenerateResource.Cache
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\QFE.WPF.exe
+D:\Quran\SRC\QFE\QFE.WPF\obj\Debug\QFE.WPF.pdb
+D:\Quran\SRC\QFE\QFE.WPF\bin\Debug\libpxccpp2c.dll
+D:\Quran\SRC\QFE\QFE.WPF\bin\Debug\SharpSenses.dll
+D:\Quran\SRC\QFE\QFE.WPF\bin\Debug\SharpSenses.RealSense.dll
+D:\Quran\SRC\QFE\QFE.WPF\bin\Debug\libpxcclr.cs.dll
+D:\Quran\SRC\QFE\QFE.WPF\bin\Debug\SharpSenses.RealSense.pdb
+D:\Quran\SRC\QFE\QFE.WPF\bin\Debug\SharpSenses.pdb
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\bin\Debug\QFE.WPF.exe.config
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\bin\Debug\QFE.WPF.exe
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\bin\Debug\QFE.WPF.pdb
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\bin\Debug\HtmlToXamlConvert.exe
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\bin\Debug\QFE.BLL.dll
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\bin\Debug\QFE.DAL.dll
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\bin\Debug\System.Data.SQLite.dll
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\bin\Debug\HtmlToXamlConvert.pdb
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\bin\Debug\QFE.BLL.pdb
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\bin\Debug\QFE.DAL.pdb
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\bin\Debug\System.Data.SQLite.xml
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\QFE.WPF.csprojResolveAssemblyReference.cache
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\MainWindow.baml
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListAyah.baml
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListJuz.baml
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListLanguage.baml
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListReciter.baml
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListSetting.baml
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListSurah.baml
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\Window1.baml
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\MainWindow.g.cs
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListAyah.g.cs
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListJuz.g.cs
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListLanguage.g.cs
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListReciter.g.cs
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListSetting.g.cs
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\Usercontrols\ListSurah.g.cs
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\Window1.g.cs
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\App.g.cs
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\QFE.WPF_MarkupCompile.cache
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\QFE.WPF.g.resources
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\QFE.WPF.Properties.Resources.resources
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\QFE.WPF.csproj.GenerateResource.Cache
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\QFE.WPF.exe
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\obj\Debug\QFE.WPF.pdb
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\DEV\Experiment\Quran\SRC\QFE\QFE.WPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\bin\Debug\QFE.WPF.exe.config
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\bin\Debug\QFE.WPF.exe
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\bin\Debug\QFE.WPF.pdb
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\bin\Debug\HtmlToXamlConvert.exe
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\bin\Debug\QFE.BLL.dll
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\bin\Debug\QFE.DAL.dll
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\bin\Debug\System.Data.SQLite.dll
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\bin\Debug\HtmlToXamlConvert.pdb
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\bin\Debug\QFE.BLL.pdb
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\bin\Debug\QFE.DAL.pdb
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\bin\Debug\System.Data.SQLite.xml
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\QFE.WPF.csprojResolveAssemblyReference.cache
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\MainWindow.baml
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\Usercontrols\ListAyah.baml
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\Usercontrols\ListJuz.baml
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\Usercontrols\ListLanguage.baml
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\Usercontrols\ListReciter.baml
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\Usercontrols\ListSetting.baml
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\Usercontrols\ListSurah.baml
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\Window1.baml
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\MainWindow.g.cs
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\Usercontrols\ListAyah.g.cs
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\Usercontrols\ListJuz.g.cs
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\Usercontrols\ListLanguage.g.cs
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\Usercontrols\ListReciter.g.cs
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\Usercontrols\ListSetting.g.cs
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\Usercontrols\ListSurah.g.cs
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\Window1.g.cs
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\App.g.cs
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\QFE.WPF_MarkupCompile.cache
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\QFE.WPF.g.resources
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\QFE.WPF.Properties.Resources.resources
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\QFE.WPF.csproj.GenerateResource.Cache
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\QFE.WPF.exe
+C:\DEV\Experiment\Quran\Microsoft\QFE\QFE.WPF\obj\Debug\QFE.WPF.pdb
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\bin\Debug\QFE.WPF.exe.config
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\QFE.WPF.exe
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\QFE.WPF.pdb
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\bin\Debug\QFE.WPF.exe
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\bin\Debug\QFE.WPF.pdb
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\bin\Debug\HtmlToXamlConvert.exe
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\bin\Debug\QFE.BLL.dll
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\bin\Debug\QFE.DAL.dll
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\bin\Debug\System.Data.SQLite.dll
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\bin\Debug\HtmlToXamlConvert.pdb
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\bin\Debug\QFE.BLL.pdb
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\bin\Debug\QFE.DAL.pdb
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\bin\Debug\System.Data.SQLite.xml
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\QFE.WPF.csprojResolveAssemblyReference.cache
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\MainWindow.baml
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\Usercontrols\ListAyah.baml
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\Usercontrols\ListJuz.baml
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\Usercontrols\ListLanguage.baml
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\Usercontrols\ListReciter.baml
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\Usercontrols\ListSetting.baml
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\Usercontrols\ListSurah.baml
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\Window1.baml
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\MainWindow.g.cs
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\Usercontrols\ListAyah.g.cs
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\Usercontrols\ListJuz.g.cs
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\Usercontrols\ListLanguage.g.cs
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\Usercontrols\ListReciter.g.cs
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\Usercontrols\ListSetting.g.cs
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\Usercontrols\ListSurah.g.cs
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\Window1.g.cs
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\App.g.cs
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\QFE.WPF_MarkupCompile.cache
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\QFE.WPF.g.resources
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\QFE.WPF.Properties.Resources.resources
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\QFE.WPF.csproj.GenerateResource.Cache
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\Usercontrols\ListBookmark.baml
+C:\DEV\Experiment\Quran\Microsoft\Windows Version\QFE\QFE.WPF\obj\Debug\Usercontrols\ListBookmark.g.cs

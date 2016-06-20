@@ -1,0 +1,4 @@
+C:\DEV\Experiment\Quran\U2UConsult.HtmlTextBlock.Sample\U2UConsult.RichHtmlTextBlock\bin\Debug\U2UConsult.RichHtmlTextBlock.dll
+C:\DEV\Experiment\Quran\U2UConsult.HtmlTextBlock.Sample\U2UConsult.RichHtmlTextBlock\bin\Debug\U2UConsult.RichHtmlTextBlock.pdb
+C:\DEV\Experiment\Quran\U2UConsult.HtmlTextBlock.Sample\U2UConsult.RichHtmlTextBlock\obj\Debug\U2UConsult.RichHtmlTextBlock.dll
+C:\DEV\Experiment\Quran\U2UConsult.HtmlTextBlock.Sample\U2UConsult.RichHtmlTextBlock\obj\Debug\U2UConsult.RichHtmlTextBlock.pdb
